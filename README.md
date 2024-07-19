@@ -9,9 +9,8 @@ I am **Arnav Mishra**, an AI Engineer with a strong background in **Natural Lang
 - 🔭 Currently working on various projects in **Machine Learning**, **Deep Learning**, and **Data Science**.
 - 🌱 Continuously learning and growing my skills in **Transformer models**, **Vision Transformers**, and **Large Language Models**.
 - 👯 Looking to collaborate on projects that involve **data analysis**, **predictive modeling**, and **deep learning applications**.
-- 🤔 Seeking help with improving **stock price prediction models** and **image analysis techniques**.
 - 💬 Ask me about **TensorFlow**, **Keras**, **Python**, **data visualization**, and anything related to **data science**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [mishraarnav39@gmail.com](mailto:mishraarnav32@gmail.com)
 - ⚡ Fun fact: I enjoy composing classical music and integrating AI into creative fields.
 
 ---
