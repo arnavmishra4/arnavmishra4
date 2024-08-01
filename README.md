@@ -75,7 +75,7 @@ Led a project to compose classical music inspired by the styles of renowned hist
 
 ### 🌟 CAR DAMAGE DETECTION
 
-![Car Damage Detection GIF](https://media1.tenor.com/m/lDV21olE9WAAAAAd/gta-v-flip.gif)
+![Car Damage Detection GIF]([https://media1.tenor.com/m/lDV21olE9WAAAAAd/gta-v-flip.gif](https://tenor.com/bW7y7.gif))
 
 **[HACKATHON]**
 
