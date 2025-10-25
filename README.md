@@ -1,100 +1,197 @@
+# Hi, I'm Arnav Mishra 👋
 
+**AI Researcher | Deep Learning Engineer | PyTorch Specialist**
 
-I am **Arnav Mishra**, an AI Engineer with a strong background in **Natural Language Processing (NLP)**, **Deep Learning (DL)**, **Machine Learning (ML)**, and **Data Science**. I enjoy exploring data, creating insightful visualizations, and developing intelligent systems to solve real-world problems.
+I build interpretable, production-ready deep learning systems from first principles. My work spans **multimodal architectures**, **Transformer-based models**, and **end-to-end research pipelines** with a strong emphasis on reproducibility and engineering rigor.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on various projects in **Machine Learning**, **Deep Learning**, and **Data Science**.
-- 🌱 Continuously learning and growing my skills in **Transformer models**, **Vision Transformers**, and **Large Language Models**.
-- 👯 Looking to collaborate on projects that involve **data analysis**, **predictive modeling**, and **deep learning applications**.
-- 💬 Ask me about **TensorFlow**, **Keras**, **Python**, **data visualization**, and anything related to **data science**.
-- 📫 How to reach me: [mishraarnav32@gmail.com](mailto:mishraarnav32@gmail.com)
-- ⚡ Fun fact: I enjoy composing classical music and integrating AI into creative fields.
+- 🔭 Currently researching **early detection systems** in the biomedical domain using dual-branch neural architectures
+- 🎵 Recently completed **harmony-aware music generation** research (conference submission, 2025)
+- 🛰️ Built **SONAR** — a multimodal audio + spatial pattern recognition system
+- 🌱 Deep expertise in **PyTorch internals**, **custom Transformers**, and **research engineering**
+- 👯 Open to collaborations on **interpretable AI**, **multimodal systems**, and **research-to-production pipelines**
+- 💬 Ask me about **PyTorch internals**, **custom attention mechanisms**, **distributed training**, or **music generation**
+- 📫 Reach me: [mishraarnav32@gmail.com](mailto:mishraarnav32@gmail.com)
+- ⚡ Fun fact: I compose classical music and integrate AI into creative fields
 
 ---
 
 ## 🛠 Skills & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-007396?style=for-the-badge&logo=sql&logoColor=white)
 
-### Frameworks & Libraries
+### Deep Learning & Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Libraries & Tools
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Experimentation & Deployment
+![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Platforms
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Top_0.1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-### 🌟 Financial Dashboard with Company Chatbot
+### 🔬 Early Prediction System (Biomedical Domain)
+**[CURRENT RESEARCH]**
 
-![Dashboard GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqMm15cTE4dmx1YWFzeXJzdzl1NGdmbTlxZnEyaWhiamR1dmJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67SXcAhhz0frMqhyAZ/giphy.gif)
+![Research GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 
-**[WORK EXPERIENCE]**
+Developing a dual-branch architecture for early detection using complementary data modalities.
+- **Methods:** Custom Transformer variants, multimodal fusion, interpretability modules, structured ablation studies
+- **Engineering:** PyTorch from scratch, distributed training (DDP), mixed precision (AMP), experiment tracking (W&B)
+- **Focus:** Reproducible research pipelines with rigorous evaluation protocols
+- **Status:** Active research (implementation details confidential)
 
-A live financial model that predicts future data integrated with a chatbot for company insights.
-- **Methods and approaches:** Web scraping: BeautifulSoup, Selenium API. Prediction models: ARIMA, RNN LSTM. Visualization: PowerBI. Advanced models: LLM model, transformers.
-- **Outcome:** Helps beginner traders to learn about stocks and future values.
-- **Accuracy:** 89% on predictions.
+**2024-2025**
+
+---
+
+### 🛰️ SONAR - Audio + Spatial Pattern Recognition
+**[COMPLETED RESEARCH]**
+
+![SONAR GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
+
+Multimodal research system for anomaly and pattern detection combining audio signals with geospatial data.
+- **Architecture:** Modular fusion architectures (early/late fusion), custom attention mechanisms
+- **Models:** CNN-based audio feature extraction, GNN for spatial relationships, Transformer fusion modules
+- **Outcome:** Complete research system with interpretability mechanisms and saliency visualizations
+- **Engineering:** Modular PyTorch design, profiled inference pipelines, structured evaluation framework
 
 **2024**
 
 ---
 
-### 🌟 THE BEETHOVEN - AUTOMATIC MUSIC GENERATION MODEL
+### 🎵 Harmony-Aware Music Generation
+**[CONFERENCE SUBMISSION 2025]**
 
 ![Music Generation GIF](https://cdn.dribbble.com/users/965179/screenshots/2541427/media/375eb93946141e2c67f6e117a3dd0a31.gif)
 
-**[SELF PROJECT]**
+Two-stage Transformer framework for musically coherent generation with harmonic structure awareness.
+- **Architecture:** Harmony encoder + melody generator with custom positional encodings
+- **Methods:** Sequence-to-sequence learning, custom attention mechanisms, music theory integration
+- **Implementation:** Built from scratch in PyTorch with manual QKV attention and positional encoding variants
+- **Outcome:** Conference submission demonstrating novel approach to structured music generation
+- **Achievement:** Advanced proficiency in custom Transformer implementations and music AI
 
-Led a project to compose classical music inspired by the styles of renowned historical composers, aimed at creating new musical experiences and variations for listeners.
-- **Methods and approaches:** Advanced transformer models (GPT-2), sequence-to-sequence learning, music generation.
-- **Model used:** Decoder-only transformer (GPT-2).
-- **Outcome:** The model takes MIDI input from the user and composes music on top of it, contributing to musical diversity and innovation.
-- **Achievement:** Successfully created the model, advancing proficiency in transformer models and everything related to them.
+**2024**
+
+---
+
+### 💻 Deep Research Models Repository
+**[FOUNDATIONAL IMPLEMENTATIONS]**
+
+Research-grade PyTorch implementations built from first principles during intensive bootcamp.
+- **Models:** Transformers (Encoder/Decoder, Transformer-XL variants), CNNs (2D/3D, ResNet blocks), GNNs (GCN, GAT), RNN/LSTM/GRU with attention
+- **Components:** Custom autograd operations, manual attention/QKV, positional encodings, training utilities
+- **Engineering:** Profiling tools, deployment examples (TorchServe/FastAPI), reproducible experiment patterns
+- **Purpose:** Reference implementations for empirical analysis and research experiments
+
+**2024**
+
+---
+
+### 📊 Financial Dashboard with Company Chatbot
+**[WORK EXPERIENCE]**
+
+![Dashboard GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqMm15cTE4dmx1YWFzeXJzdzl1NGdmbTlxZnEyaWhiamR1dmJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67SXcAhhz0frMqhyAZ/giphy.gif)
+
+Live financial prediction model integrated with LLM-powered chatbot for company insights.
+- **Methods:** Web scraping (BeautifulSoup, Selenium), ARIMA + RNN LSTM for predictions, PowerBI visualization, Transformer-based LLM integration
+- **Outcome:** Educational platform for beginner traders to understand stocks and future valuations
+- **Metrics:** 89% prediction accuracy
+
+**2024**
+
+---
+
+### 🚗 Car Damage Detection
+**[HACKATHON - 2ND PLACE]**
+
+![Car Damage GIF](https://media.tenor.com/lDV21olE9WAAAAAd/gta-v-flip.gif)
+
+Computer vision system for automated car damage assessment and repair cost estimation.
+- **Methods:** Transfer learning with MobileNetV2, TensorFlow Object Detection API, custom CNN architectures
+- **Application:** Insurance claim automation and cost prediction
+- **Achievement:** 2nd place in ACM Hackathon | 85% model accuracy
 
 **2023**
 
 ---
 
-### 🌟 CAR DAMAGE DETECTION
+## 🏆 Achievements & Recognition
 
-![Car Damage Detection GIF]([https://media1.tenor.com/m/lDV21olE9WAAAAAd/gta-v-flip.gif](https://tenor.com/bW7y7.gif))
+- 🥈 **2nd Place** — ACM Hackathon (Car Damage Detection)
+- 📊 **Kaggle Notebooks Expert** — Top 0.1% globally
+- 📝 **Conference Submission** — Harmony-Aware Music Generation (2025)
+- 🎓 **PyTorch Research Bootcamp** — 15-day intensive program building foundational models from scratch
+- 🎤 **Academic Contributions** — Organized/participated in national seminar events
 
-**[HACKATHON]**
+---
 
-Led a project aimed at detecting car damages and predicting the cost of repair.
-- **Methods and approaches:** Advanced CNN (TensorFlow Object Detection), Computer Vision, Deep Neural Network.
-- **Model used:** MobileNetV2.
-- **Outcome:** The model can be used by insurance companies to easily process insurance claims.
-- **Achievement:** Successfully advanced to the final round of the hackathon with model accuracy: 85%.
+## 💡 Core Expertise
+
+### Deep Learning Architectures
+- **Transformers:** Encoder/Decoder, Transformer-XL variants, custom attention mechanisms, positional encoding variants
+- **CNNs:** 2D/3D convolutions, ResNet-style blocks, transfer learning
+- **Graph Neural Networks:** GCN, GAT, custom message passing
+- **Recurrent Models:** RNN/LSTM/GRU with attention mechanisms
+
+### PyTorch Mastery
+- Custom autograd functions and manual gradient computation
+- Manual attention/QKV implementations from scratch
+- Hooks, profiling (torch.profiler), and performance optimization
+- TorchScript/JIT compilation and ONNX export
+- Mixed precision training (AMP) and distributed training (DDP)
+- Quantization-aware training approaches
+
+### Research Engineering
+- Hyperparameter optimization (Optuna)
+- Experiment tracking and versioning (W&B)
+- Model interpretability and saliency visualization
+- Structured ablation studies
+- Dataset versioning and reproducibility practices
+- Docker workflows and deployment pipelines
+
+---
+
+## 🎓 Education
+
+**B.Tech in Data Science Engineering**  
+Manipal University Jaipur, 2025
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavmishra12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnavmishra12)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/thearnavmishraa)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arnavmishra)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnavmishra4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishraarnav32@gmail.com)
+
+---
+
+💡 **Open to research engineering roles and ML research collaborations where technical depth, reproducibility, and engineering rigor matter.**
 
 ---
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
-
----
