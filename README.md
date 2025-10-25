@@ -39,11 +39,10 @@ I build interpretable, production-ready deep learning systems from first princip
 
 ### Experimentation & Deployment
 ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Platforms
-![Kaggle](https://img.shields.io/badge/Kaggle-Top_0.1%25-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks_Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -156,7 +155,7 @@ Computer vision system for automated car damage assessment and repair cost estim
 ## 🏆 Achievements & Recognition
 
 - 🥈 **2nd Place** — ACM Hackathon (Car Damage Detection)
-- 📊 **Kaggle Notebooks Expert** — Top 0.1% globally
+- 📊 **Kaggle Notebooks Expert** — Peak rank: 2006
 - 📝 **Conference Submission** — Harmony-Aware Music Generation (Under Review, 2025)
 - 🎓 **PyTorch Research Bootcamp** — 15-day intensive program building foundational models from scratch
 - 🎤 **Academic Contributions** — Organized/participated in national seminar events
