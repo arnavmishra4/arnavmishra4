@@ -52,7 +52,7 @@ I build interpretable, production-ready deep learning systems from first princip
 ### 🩺 Early Prediction System (Biomedical Domain)
 **STATUS: 🟢 ACTIVE RESEARCH**
 
-![Research GIF](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+![Glioblastoma MRI](https://upload.wikimedia.org/wikipedia/commons/4/4c/RM_glioblastoma_-_coronale.gif)
 
 Developing a dual-branch architecture for early detection using complementary data modalities in the biomedical domain.
 
