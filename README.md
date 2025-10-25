@@ -50,7 +50,7 @@ I build interpretable, production-ready deep learning systems from first princip
 ## 🔬 Research
 
 ### 🩺 Early Prediction System (Biomedical Domain)
-**STATUS: 🟢 ACTIVE RESEARCH**
+> **STATUS: 🟢 ACTIVE RESEARCH** | *2024 - Present*
 
 ![Glioblastoma MRI](https://upload.wikimedia.org/wikipedia/commons/4/4c/RM_glioblastoma_-_coronale.gif)
 
@@ -61,14 +61,13 @@ Developing a dual-branch architecture for early detection using complementary da
 - **Engineering:** PyTorch from scratch, distributed training (DDP), mixed precision (AMP), experiment tracking (W&B)
 - **Focus:** Reproducible research pipelines with emphasis on model interpretability
 - **Status:** Active research (implementation details confidential)
-- **Code:** Confidential until published
 
-**2024 - Present**
+**💻 Code:** *Confidential until published*
 
 ---
 
 ### 🎵 Harmony-Aware Music Generation
-**STATUS: 🟡 UNDER REVIEW (Conference Submission 2025)**
+> **STATUS: 🟡 UNDER REVIEW (Conference Submission 2025)** | *2024*
 
 ![Music Generation GIF](https://cdn.dribbble.com/users/965179/screenshots/2541427/media/375eb93946141e2c67f6e117a3dd0a31.gif)
 
@@ -80,14 +79,14 @@ Two-stage Transformer framework for musically coherent generation with harmonic 
 - **Contribution:** Novel approach to structured music generation that respects harmonic rules
 - **Status:** Submitted to conference (2025)
 
-**2024**
+**💻 Code:** *Confidential until published*
 
 ---
 
 ## 💼 Projects
 
 ### 🛰️ SONAR - Audio + Spatial Pattern Recognition System
-**[COMPLETED SYSTEM]**
+> **[COMPLETED SYSTEM]** | *2024*
 
 ![SONAR GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
@@ -99,12 +98,12 @@ Multimodal system for anomaly and pattern detection combining audio signals with
 - **Engineering:** Modular PyTorch design, profiled inference pipelines, structured evaluation framework
 - **Status:** Completed (not deployed)
 
-**2024**
+**💻 Code:** Coming soon
 
 ---
 
 ### 💻 Deep Research Models Repository
-**[FOUNDATIONAL IMPLEMENTATIONS]**
+> **[FOUNDATIONAL IMPLEMENTATIONS]** | *2024*
 
 Research-grade PyTorch implementations built from first principles during intensive bootcamp.
 
@@ -117,12 +116,12 @@ Research-grade PyTorch implementations built from first principles during intens
 - **Engineering:** Profiling tools, deployment examples (TorchServe/FastAPI), reproducible experiment patterns
 - **Purpose:** Reference implementations for empirical analysis and research experiments
 
-**2024**
+**💻 Code:** Coming soon
 
 ---
 
 ### 📊 Financial Dashboard with Company Chatbot
-**[WORK EXPERIENCE]**
+> **[WORK EXPERIENCE]** | *2024*
 
 ![Dashboard GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhqMm15cTE4dmx1YWFzeXJzdzl1NGdmbTlxZnEyaWhiamR1dmJsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/67SXcAhhz0frMqhyAZ/giphy.gif)
 
@@ -133,12 +132,12 @@ Live financial prediction model integrated with LLM-powered chatbot for company 
 - **Outcome:** Helps users learn about stock market dynamics with interactive AI assistance
 - **Metrics:** 89% prediction accuracy
 
-**2024**
+**💻 Code:** Coming soon
 
 ---
 
 ### 🚗 Car Damage Detection
-**[HACKATHON - 2ND PLACE]**
+> **[HACKATHON - 2ND PLACE]** | *2023*
 
 ![Car Damage GIF](https://media.tenor.com/lDV21olE9WAAAAAd/gta-v-flip.gif)
 
@@ -149,7 +148,7 @@ Computer vision system for automated car damage assessment and repair cost estim
 - **Achievement:** 2nd place in ACM Hackathon
 - **Metrics:** 85% model accuracy
 
-**2023**
+**💻 Code:** Coming soon
 
 ---
 
