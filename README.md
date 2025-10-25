@@ -61,6 +61,7 @@ Developing a dual-branch architecture for early detection using complementary da
 - **Engineering:** PyTorch from scratch, distributed training (DDP), mixed precision (AMP), experiment tracking (W&B)
 - **Focus:** Reproducible research pipelines with emphasis on model interpretability
 - **Status:** Active research (implementation details confidential)
+- **Code:** Confidential until published
 
 **2024 - Present**
 
